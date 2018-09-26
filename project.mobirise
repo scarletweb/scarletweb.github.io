@@ -1,0 +1,210 @@
+{
+  "settings": {
+    "name": "Site-09-26_2204",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2f7376",
+        "#427083"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "uniqCompNum": 4,
+    "versionPublish": "4.8.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2f7376"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2f7376"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2f7376",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Invite Outertale Grillby To Your Server<br></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Invite Outertale Grillby To Your Server</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/thlftdfhl9-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Outertale Grillby | <br>Moderation</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Outertale Grillby's Main Command Types",
+          "items": [
+            {
+              "authorName": "Member And Server Commands",
+              "authorBio": "Can Be Used By anyone",
+              "text": "<p>These Commands Are Used To Reveal Information About A Mentioned User Or The Current Server</p>"
+            },
+            {
+              "authorName": "Moderation",
+              "authorBio": "Can Only Be Used By Server moderators",
+              "text": "These Commands Help Moderate And Protect The Server Or Help Keep Members On Track"
+            },
+            {
+              "authorName": "Fun",
+              "authorBio": "Can Be Used By Everyone",
+              "text": "<p>These Commands Can Be Used By Anyone And Are Primaraly Used To Joke Around By Hitting Or Patting Someone</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1",
+          "testimonial": [
+            {
+              "authorName": "Member And Server Commands",
+              "authorBio": "Can Be Used By anyone",
+              "text": "<p>These Commands Are Used To Reveal Information About A Mentioned User Or The Current Server</p>"
+            },
+            {
+              "authorName": "Moderation",
+              "authorBio": "Can Only Be Used By Server moderators",
+              "text": "These Commands Help Moderate And Protect The Server Or Help Keep Members On Track"
+            },
+            {
+              "authorName": "Fun",
+              "authorBio": "Can Be Used By Everyone",
+              "text": "<p>These Commands Can Be Used By Anyone And Are Primaraly Used To Joke Around By Hitting Or Patting Someone</p>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "firstType": "hidden",
+            "secondType": "hidden",
+            "thirdType": "orange",
+            "fourthType": "favorite",
+            "fifthType": "hidden",
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STANDARD",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "per month",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "BUSINESS",
+          "currency2": "$",
+          "price2": "0",
+          "period2": "per month",
+          "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "Standard<br>",
+          "currency3": "<br><br>",
+          "price3": "&nbsp;45",
+          "period3": "Commands",
+          "list3": "<p>✔ Normal Moderation Commands</p><p>✔ All Normal Member Commands</p><p>✘ No Music Commands</p><p>✘ No Access To The Final Economy System</p>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://discordbots.org/bot/450994466963062797\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Use The Normal Version<br></a>",
+          "title4": "ULTIMATE",
+          "currency4": "&nbsp;",
+          "price4": "48",
+          "period4": "Commands",
+          "list4": "<b>✔ Normal Moderation Commands\r</b><ul><li></li></ul><div><b>\r</b></div><div><b>✔ All Normal Member Commands\r</b></div><div><b>\r</b></div><div><b>\r</b></div><div><b>✔ &nbsp;Music Commands\r</b></div><div><b>\r</b></div><div><b>✔ Access To The Final Economy System</b></div><div><b>\r</b></div><div><b>✔ Any Other Ultimate Commands In The Future<br></b><br></div>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://discord.gg/DGGWPcT\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Upgrade To ULTIMATE</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-2",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
