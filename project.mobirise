@@ -58,7 +58,7 @@
             "color": "#2f7376",
             "hamburgerColor": "#000000"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Our team</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Our team</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" data-toolbar=\"-mbrBtnMove\">Invite Outertale Grillby To Your Server</a></li>",
           "logo": {
             "image": {
@@ -243,7 +243,7 @@
             "color": "#2f7376",
             "hamburgerColor": "#000000"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Our team</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Our team</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" data-toolbar=\"-mbrBtnMove\">Invite Outertale Grillby To Your Server</a></li>",
           "logo": {
             "image": {
