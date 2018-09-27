@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-26_2204",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,8 +14,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 4,
-    "versionPublish": "4.8.1"
+    "uniqCompNum": 5,
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -57,8 +58,8 @@
             "color": "#2f7376",
             "hamburgerColor": "#000000"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Invite Outertale Grillby To Your Server</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Our team</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" data-toolbar=\"-mbrBtnMove\">Invite Outertale Grillby To Your Server</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -75,7 +76,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Outertale Grillby | <br>Moderation</a>",
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://discordbots.org/bot/450994466963062797\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Outertale Grillby | <br>Moderation</a>",
           "_tags": [
             "Theme"
           ],
@@ -203,6 +204,69 @@
               "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "team",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2f7376"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2f7376"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2f7376",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Invite Outertale Grillby To Your Server<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" target=\"_blank\">Our team</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discordbots.org/bot/450994466963062797\" data-toolbar=\"-mbrBtnMove\">Invite Outertale Grillby To Your Server</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/thlftdfhl9-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://discordbots.org/bot/450994466963062797\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Outertale Grillby | <br>Moderation</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4"
         }
       ]
     }

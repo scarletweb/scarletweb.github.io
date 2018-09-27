@@ -18,3 +18,19 @@
 #pricing-table1-2 DIV {
   text-align: center;
 }
+
+#menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2f7376;
+}
+#menu-4 .mbr-navbar__section {
+  background: #2f7376;
+}
+#menu-4 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-4 .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
